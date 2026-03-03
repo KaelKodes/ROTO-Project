@@ -52,4 +52,6 @@ Stay up to date with the latest devlogs and community updates:
 ---
 
 ### 🛡️ Licensing
-*The source code for ROTO is proprietary. This repository serves as the public hub and distribution point for the project. All rights reserved.*
+*The source code for ROTO is proprietary.*
+*This repository serves as the public hub and distribution point for the project.*
+*All rights reserved.*

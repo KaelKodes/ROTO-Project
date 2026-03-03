@@ -1,5 +1,5 @@
-# 🚀 ROTO: Beyond the Skies
-
+# 🚀 R.O.T.O.s:
+Reconnaissance Operations & Terrestrial Observer
 **A Physics-Based Modular Ship Building & Exploration Experience.**
 
 Inspired by the mechanics of *Worlds Adrift*, **ROTO** is a technical exploration into high-fidelity, physics-driven gameplay in the Godot Engine. Build your ship piece-by-piece, customize your ROTO-BOT, and navigate a world of floating islands and dynamic wind walls.

@@ -47,7 +47,7 @@ Your identity in the sky. Customize your ROTO-BOT with:
 
 Stay up to date with the latest devlogs and community updates:
 - **Discord**: [Join our Discord!](https://discord.gg/CT54sxrKY7)
-- **YouTube**: [Watch devlogs](www.youtube.com/@CelticTrinityStudios)
+- **YouTube**: [Watch devlogs](https://www.youtube.com/channel/UC5fpYh6tS7E24yexcLAsP_A)
 
 ---
 

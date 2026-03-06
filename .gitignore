@@ -16,3 +16,9 @@
 # Large media (over GitHub 100MB limit)
 PitchDeck/PlanksInAction.gif
 *.mp4
+
+# Private / not for public
+DiscordBot/
+DiscordKit/
+PitchDeck/
+ctsgame-site/
